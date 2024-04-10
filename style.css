@@ -117,7 +117,8 @@ span{
     font-size: 0.9rem;
     width:700 ;
 }
-.hero_section {"Images/hero_image.jpg");
+.hero_section {
+    background-image : url("./Images/hero_image.jpg");
     background-size: cover;
     height: 400px;
     display: flex;
